@@ -14,5 +14,5 @@ while touch() == "fruit":
   moved= moved+1
   
   turn(-1)
- while touch() == "fruit":
+while touch() == "fruit":
     go()
