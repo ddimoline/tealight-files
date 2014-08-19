@@ -13,6 +13,6 @@ while touch() == "fruit":
   move()
   moved= moved+1
   
- turn(-1)
+  turn(-1)
  while touch() == "fruit":
     go()
